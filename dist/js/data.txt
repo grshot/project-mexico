@@ -1,0 +1,66 @@
+{
+  "data": [
+    {
+      "DT_RowId": "row_1",
+      "products": {
+        "product_name": "Tiger",
+        "vendor": "1",
+        "category": "Apertif",
+        "tags": "vodka",
+        "qty": "10",
+        "sku": "5421",
+        "value": "2800"
+      },
+      "vendors": {
+        "vendor_name": "Nixon"
+      }
+    },
+    {
+      "DT_RowId": "row_2",
+      "products": {
+        "product_name": "J Daniel's",
+        "vendor": "2",
+        "category": "Comenil",
+        "tags": "wisky",
+        "qty": "20",
+        "sku": "5422",
+        "value": "3800"
+      },
+      "vendors": {
+        "vendor_name": "Oppenheimer"
+      }
+    },
+    {
+      "DT_RowId": "row_3",
+      "products": {
+        "product_name": "Uva",
+        "vendor": "3",
+        "category": "Bench",
+        "tags": "wine",
+        "qty": "20",
+        "sku": "5424",
+        "value": "1900"
+      },
+      "vendors": {
+        "vendor_name": "Vinoteca"
+      }
+    }
+  ],
+  "options": {
+    "products.vendor": [
+      {
+      "label": "Nixon",
+      "value": "1"
+      },
+      {
+      "label": "Oppenheimer",
+      "value": "2"
+      },
+      {
+      "label": "Vinoteca",
+      "value": "3"
+      }
+    ]
+  },
+  "files": []
+}
